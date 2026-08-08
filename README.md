@@ -29,14 +29,12 @@
 - 🗺️ **[india-official-geojson](https://github.com/AbhinavSwami28/india-official-geojson)** – India GeoJSON/TopoJSON with correct boundaries (J&K, Ladakh, PoK, Aksai Chin, Arunachal Pradesh) — most open-source India maps get this wrong [![Stars](https://img.shields.io/github/stars/AbhinavSwami28/india-official-geojson?style=flat-square&logo=github&color=f5c518)](https://github.com/AbhinavSwami28/india-official-geojson/stargazers)
 - 🏛️ **[file-itr](https://github.com/AbhinavSwami28/file-itr)** *(fork)* – Contributing to an agent + tested Python engine that files Indian income-tax returns: employment/multi-Form-16 verification, NPS compliance checks, and truthful-filing safeguards
 - 🏙️ **[india-cost-of-living](https://github.com/AbhinavSwami28/india-cost-of-living)** – Compare cost of living across 54 Indian cities — rent, PG, groceries, transport & more
-- 🤖 **[feedback-pilot](https://github.com/AbhinavSwami28/feedback-pilot)** – Autonomous feedback-to-code agent: reads user feedback, vets it through guardrails, implements safe code changes via AI
 - 🛡️ **[typo-domain-checker](https://github.com/AbhinavSwami28/typo-domain-checker)** – Brand-protection tool: generates lookalike typo domains (37 techniques) and checks registration status across 7 sources (DNS, DoH, RDAP, WHOIS) with automated risk scoring — [live demo](https://typo-domain-checker.vercel.app)
 - 🌐 **[abhinav-personal-website](https://github.com/AbhinavSwami28/abhinav-personal-website)** – Personal site & blog — Next.js, Supabase, Tailwind CSS
 
 ## What I'm Building
 
 - **Backend systems at scale** – Go + PostgreSQL services, scoring pipelines, CI/CD pipeline optimization
-- **AI-assisted tooling** – agents and automation that turn feedback/specs into shipped code
 - **Security & brand protection** – typosquat detection, multi-source domain intelligence
 - **Open data & open source** – filling gaps in existing tools (accurate India geodata, tax-filing safeguards)
 
@@ -78,4 +76,3 @@
 
 </details>
 </content>
-
